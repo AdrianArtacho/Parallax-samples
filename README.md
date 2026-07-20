@@ -2,7 +2,8 @@
 
 ## Triggering
 
-| MIDI  | Key  | file  | behaviour  |
-|-------|------|-------|------------|
-|   60  |   a  | Eb-2.mp3  |    1shot   |
+| MIDI | Key | file  | behaviour | name        |
+| ---- | --- | ----- | --------- | ----------- |
+| 60   | a   | 0.mp3 | 1shot     | Eb-2 (test) |
+
 
